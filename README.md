@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptainVanessa
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity and C#
+- 👀 I’m interested in game dev and design
+- 🌱 I’ve been making video games for about a year
 - 💞️ I’m looking to collaborate on game jams and small projects
-- 📫 You can reach me on Discord: CaptainV#1830
+- 📫 You can reach me on Discord: captainvanessa
